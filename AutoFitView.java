@@ -34,8 +34,8 @@ public class AutoFitView extends View {
 		this.context =context;
 		paint = new TextPaint();
 
-		TypedArray a = context.obtainStyledAttributes(attrs, R.styleable.auto);
-		CharSequence autofit_text = a.getString(R.styleable.auto_autofit_text);
+		TypedArray a = context.obtainStyledAttributes(attrs, R.styleable.auto_fit_view);
+		CharSequence autofit_text = a.getString(R.styleable.auto_fit_view_autofit_text);
 
 		text = autofit_text != null ? autofit_text.toString() : "";
 
