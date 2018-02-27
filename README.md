@@ -5,9 +5,9 @@ Resize text and fit with bounds
 you can use anywhere any api
 if you have problem, tell me.
 
-** Use: **
+**Use:**
 
-1. copy paste in your project and set package insted "com.app"
+1. copy,paste in your project and set package insted "com.app"
 
 2. add these codes in values/attrs.xml:
 ```xml
