@@ -5,7 +5,7 @@ Resize text and fit with bounds
 you can use anywhere any api
 if you have problem, tell me.
 
-** `Use:` **
+** Use: **
 
 1. copy paste in your project and set package insted "com.app"
 
@@ -17,7 +17,7 @@ if you have problem, tell me.
 </declare-styleable>
 
 ```
-3. use:
+3. use in layout:
 ```xml
 
 <?xml version="1.0" encoding="utf-8"?>
