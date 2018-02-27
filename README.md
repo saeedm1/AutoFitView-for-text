@@ -8,7 +8,7 @@ if you have problem, tell me.
 
 --------------------------------------
 
-**1. copy,paste in your project and set package insted "com.app"**
+**1. copy,paste `AutoFitView.java` in your project and set package insted "com.app"**
 
 **2. add these codes in values/attrs.xml:**
 ```xml
