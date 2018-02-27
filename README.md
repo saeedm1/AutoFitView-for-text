@@ -1,6 +1,11 @@
 # AutoFitView-for-text
 
 Resize text and fit with bounds
+**this library is the lightest resizer in the world** and very fast
+you can use anywhere any api
+if you have problem, tell me.
+
+** `Use:` **
 
 1. copy paste in your project and set package insted "com.app"
 
