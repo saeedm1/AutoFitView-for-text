@@ -9,7 +9,6 @@ Resize text and fit with bounds
 
 <declare-styleable name="auto_fit_view">
         <attr name="autofit_text" format="string"/>
-        <attr name="autofit_font" format="integer"/>
 </declare-styleable>
 
 ```
