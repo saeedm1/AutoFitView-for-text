@@ -1,15 +1,17 @@
 # AutoFitView-for-text
 
 Resize text and fit with bounds
+
 **this library is the lightest resizer in the world** and very fast
-you can use anywhere any api
+
+you can use anywhere any api.
 if you have problem, tell me.
 
-**Use:**
 
-1. copy,paste in your project and set package insted "com.app"
 
-2. add these codes in values/attrs.xml:
+**1. copy,paste in your project and set package insted "com.app"**
+
+**2. add these codes in values/attrs.xml:**
 ```xml
 
 <declare-styleable name="auto_fit_view">
@@ -17,7 +19,7 @@ if you have problem, tell me.
 </declare-styleable>
 
 ```
-3. use in layout:
+**3. use in layout:**
 ```xml
 
 <?xml version="1.0" encoding="utf-8"?>
