@@ -1,6 +1,6 @@
 # AutoFitView-for-text
 
-##this library is the lightest AutoFitText in the world and very fast
+## this library is the lightest AutoFitText in the world and very fast
 
 Resize text and fit with bounds,
 you can use anywhere any api,
