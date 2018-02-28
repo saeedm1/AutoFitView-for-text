@@ -29,7 +29,7 @@ if you have problem, tell me.
 	android:layout_width="match_parent"
 	android:layout_height="match_parent">
 
-	<com.mohasebegar.AutoFitView
+	<com.yourapp.AutoFitView
 	       android:id="@+id/autoFitTextView"
   	       android:layout_width="0dp"
     	       android:layout_height="wrap_content"
